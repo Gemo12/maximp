@@ -1,0 +1,33 @@
+
+body{
+
+
+    background-color: cornflowerblue;
+}
+
+
+
+
+.primerh1{
+
+
+background-color: brown ;
+
+padding: 50px;
+
+text-align: center;
+
+
+}
+
+.caja1 {
+
+    width: 20% ;
+    margin: auto;
+    background-color: darkgreen;
+}
+
+.caja1 img{
+
+    width: 150px;
+}
